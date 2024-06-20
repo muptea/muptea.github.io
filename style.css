@@ -4,7 +4,7 @@ p {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    text-align: left; /* Выравнивание по левому краю */
+    text-align: left; 
 }
 
 .container {
@@ -14,7 +14,7 @@ p {
     padding: 20px;
     background: #fff;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    text-align: left; /* Выравнивание по левому краю */
+    text-align: left; 
 }
 
 h1, h2 {
